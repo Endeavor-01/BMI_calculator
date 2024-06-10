@@ -20,8 +20,8 @@ This is a simple Body Mass Index (BMI) calculator with a graphical user interfac
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/bmi-calculator.git
-    cd bmi-calculator
+    git clone https://github.com/yourusername/bmi_calculator.git
+    cd bmi_calculator
     ```
 
 2. **Install the required Python packages**:
